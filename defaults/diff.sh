@@ -1,0 +1,1 @@
+defaults read > new_defaults && code --diff defaults new_defaults

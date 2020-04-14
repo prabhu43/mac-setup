@@ -1,0 +1,1 @@
+cp -r ~/Library/Group\ Containers/group.com.apple.notes .
